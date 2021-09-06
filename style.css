@@ -2,9 +2,14 @@ body {
     background-color: #b0b0b0;
 }
 
+footer {
+    border-top: black, 2px, solid;
+}
 .text {
     float:left;
     margin-left: 5%;
+    font-family: sans-serif;
+    font-size: 1.1em;
 }
 
 img {
@@ -35,8 +40,4 @@ ul {
   
   li a:hover {
     background-color: #111;
-  }
-
-  .active {
-      background-color: white;
   }
